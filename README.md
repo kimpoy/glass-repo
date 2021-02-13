@@ -1,3 +1,3 @@
 #Glass Effect
 
-glass effetc using backdrop-filter in CSS
+glass effect using backdrop-filter in CSS!
